@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "AACV-AU", 
+            "course": "chemsc01", 
             "name": "analytical_chemistry.jpg", 
-            "org": "Amrita-University", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "analytical_chemistry.jpg", 
-        "filename": "asset-v1:Amrita-University+AACV-AU+Anytime+type@asset+block@analytical_chemistry.jpg", 
+        "filename": "asset-v1:Virtual-Labs+chemsc01+Anytime+type@asset+block@analytical_chemistry.jpg", 
         "import_path": "analytical_chemistry.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "Amrita-University", 
-            "AACV-AU", 
+            "Virtual-Labs", 
+            "chemsc01", 
             "thumbnail", 
             "analytical_chemistry.jpg", 
             null
